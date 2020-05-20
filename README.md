@@ -12,7 +12,7 @@ npm i
 npm start
 
 ```
-###Options
+### Options
 npm run dev - run for development
 npm start - run for build and run
 npm clean - run for remove build files
