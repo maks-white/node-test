@@ -10,9 +10,18 @@
 cd ./src
 npm i
 npm start
-
 ```
+
 ### Options
-npm run dev - run for development
-npm start - run for build and run
-npm clean - run for remove build files
+Run for development:
+```
+npm run dev
+```
+Run for build and run:
+```
+npm start
+```
+Run for remove build files:
+```
+npm clear
+```
